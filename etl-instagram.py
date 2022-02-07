@@ -1,4 +1,8 @@
-# Importando as bibliotecas
+# Esse é um projeto que desenvolvi para onde eu trabalho. Aqui, eu utilizo o Instagram Graph Api para pegar os dados de publicações do Instagram
+# que seriam visualizados em um dashboard do Google Data Studio
+
+
+#Importando as bibliotecas
 import requests
 import json
 import datetime
